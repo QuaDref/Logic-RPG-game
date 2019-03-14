@@ -1,4 +1,6 @@
-#developer = Quadref
+#developer: Quadref
+#Name: Vladimir
+#Surname: Sevastyanov
 
 import random
 
